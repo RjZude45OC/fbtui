@@ -1,0 +1,9 @@
+/target
+*.exe
+*.zip
+*.tgz
+/tasks.json
+/worklog.md
+/calendar.json
+/typing.json
+/config.ini
